@@ -1,0 +1,66 @@
+/* fonts */
+export const FontFamily = {
+  krutiDev020Bold: "KrutiDev020Bold",
+  interSemiBold: "Inter-SemiBold",
+  krutiDev100Bold: "KrutiDev100Bold",
+  interBlack: "Inter-Black",
+  krutiDev020Wide: "KrutiDev020Wide",
+  krutiDev040Bold: "KrutiDev040Bold",
+  interBold: "Inter-Bold",
+  interMedium: "Inter-Medium",
+  interRegular: "Inter-Regular",
+  interExtraBold: "Inter-ExtraBold",
+};
+/* font sizes */
+export const FontSize = {
+  size_109xl: 128,
+  size_5xl: 24,
+  size_17xl: 36,
+  size_13xl: 32,
+  size_xl: 20,
+  size_base: 16,
+  size_sm: 14,
+  size_mini: 15,
+  size_smi: 13,
+  size_3xs: 10,
+  size_xs: 12,
+  size_9xl: 28,
+  size_7xl: 26,
+  size_21xl: 40,
+};
+/* Colors */
+export const Color = {
+  colorLavender: "#dbe9f6",
+  colorWhite: "#fff",
+  colorSnow_100: "#fff8f8",
+  colorDarkorange: "#ff9933",
+  colorDimgray_100: "#6d6767",
+  colorDimgray_200: "#525252",
+  colorDarkturquoise_100: "#50c9dc",
+  colorSandybrown_100: "#feaa57",
+  colorSandybrown_200: "rgba(228, 154, 68, 0)",
+  colorBlack: "#000",
+  colorLightblue: "#c9dcea",
+  colorWhitesmoke_100: "#f7f9fa",
+  colorWhitesmoke_200: "#f3f3f3",
+  colorGray_100: "#818181",
+  colorGray_200: "#7d7d7d",
+  colorGray_300: "#767575",
+  colorGainsboro: "#d9d9d9",
+  colorDarkslategray_100: "#144a32",
+  colorDarkgray: "#aeabab",
+  colorRed: "#ff0000",
+  colorLightsteelblue: "rgba(156, 190, 215, 0.56)",
+};
+/* border radiuses */
+export const Border = {
+  br_21xl: 40,
+  br_xl: 20,
+  br_3xs: 10,
+  br_31xl: 50,
+  br_11xl: 30,
+  br_8xs: 5,
+  br_15xl: 34,
+  br_18xl_2: 37,
+  br_18xl: 37,
+};
